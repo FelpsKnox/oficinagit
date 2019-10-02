@@ -2,13 +2,13 @@ programa
 {
 	funcao inicio()
 	{
-		escreva("Felps")
+		escreva("Felps, 777")
 	}
 }
 /* $$$ Portugol Studio $$$ 
  * 
- * Esta seção do arquivo guarda informações do Portugol Studio.
- * Você pode apagá-la se estiver utilizando outro editor.
+ * Esta seÃ§Ã£o do arquivo guarda informaÃ§Ãµes do Portugol Studio.
+ * VocÃª pode apagÃ¡-la se estiver utilizando outro editor.
  * 
  * @POSICAO-CURSOR = 49; 
  * @PONTOS-DE-PARADA = ;
